@@ -30,9 +30,10 @@ params:
   # social media accounts URL to display in footer if desired
   social_media:
     show_in_footer: true
-    twitter_url: "https://x.com/"
-    linkedin_url: "https://www.linkedin.com/"
-    contact_email: "mail@example.com"
+    twitter_url: "https://x.com/ibt_unam"
+    #facebook_url: "https://www.facebook.com/BiotecnologiaUNAM"
+    #linkedin_url: "https://www.linkedin.com/"
+    contact_email: "alejandro.sanchez@ibt.unam.mx"
   # Url to github repository, node should keep the URL of their fork
   git_repository: "https://github.com/ScilifelabDataCentre/node-pathogens-portal"
 

@@ -6,6 +6,6 @@ menu:
   topics:
     name: 
     identifier: viruses
-banner: 
+banner: "/topics/banners/viruses.png"
 banner_caption:
 --- 

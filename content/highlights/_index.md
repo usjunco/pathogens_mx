@@ -10,4 +10,6 @@ menu:
 
 The _Data Highlights_ section showcases recently published datasets relevant to pandemic preparedness research by (national) researchers. To easily find data highlights relevant to a specific topic, simply click on the coloured tag and the page will filter and display only the highlights related to that topic. Alternatively, use the search bar to find highlights of potential interest.
 
-Below are sample data highlights and for more real examples checkout <a target="_blank" href="https://www.pathogens.se/highlights/">Swedish pathogens portal data highlights</a>.
+
+<!-- Below are sample data highlights and for more real examples checkout <a target="_blank" href="https://www.pathogens.se/highlights/">Swedish pathogens portal data highlights</a>.
+-->

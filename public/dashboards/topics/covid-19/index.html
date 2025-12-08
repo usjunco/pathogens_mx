@@ -41,6 +41,10 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css"
         integrity="sha384-4LISF5TTJX/fLmGSxO53rV4miRxdg84mZsxmO8Rx5jGtp/LbrixFETvWa5a6sESd" crossorigin="anonymous">
 
+        
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+
     
     
     <link rel="stylesheet" href="/main.min.2a7096e9fd51b93fe65c8c573f9c40d74f1bf85f44dbe6863520d9f38de94b88.css">
@@ -99,13 +103,34 @@
                 <ul class="navbar-nav ml-auto navbar-top">
                     
                     <li class="nav-item"><a class="nav-link" href="/about/">About</a></li>
+
+                    
+        
+                    
                     
                     <li class="nav-item"><a class="nav-link" href="/contact/">Contact</a></li>
+
+                    
+        
+                    
                     
                     <li class="nav-item"><a class="nav-link" href="/events/">Events</a></li>
+
+                    
+        
+                    
                     
                     <li class="nav-item"><a class="nav-link" href="/search/"><i class='bi bi-search'></i> Search</a></li>
+
                     
+        
+                    
+                    
+
+                    
+                    <li class="nav-item"> <a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#languageModal">
+                        <i class="bi bi-globe"></i> Language
+                      </a> </li>
                 </ul>
             </div>
         </div>
@@ -121,6 +146,10 @@
 
                 
                 <ul class="navbar-nav nav-top">
+
+                   
+
+
                     
                     <li class="nav-item"><a class="nav-link" href="/about/">About</a></li>
                     
@@ -221,6 +250,8 @@
 
 <div class="container mb-3 d-none d-lg-block">
     <div class="row row-cols-auto main_menu">
+    
+    
 
         
             <div class="col-auto main_menu_item">
@@ -304,6 +335,34 @@
 </div>
 
 
+
+<div class="modal fade" id="languageModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content p-4 text-center">
+        <button type="button" class="btn-close ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
+        <h5 class="mb-3">Seleccione su idioma</h5>
+        <div id="google_translate_modal"></div>
+        <small class="text-muted">Con la tecnología de Google Traductor</small>
+      </div>
+    </div>
+  </div>
+
+
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement(
+        {
+          pageLanguage: 'en',
+          includedLanguages: 'en,es',
+          layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+        },
+        'google_translate_modal'
+      );
+    }
+    </script>
+    
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    
 <div class="header"
   style="background-image: linear-gradient(to bottom, rgba(55, 174, 148, 0.52), rgba(55, 174, 148, 0.73)),
          url('/img/csm_coronavirus_mc.jpg');">
@@ -423,16 +482,13 @@
             <h2 class="small text-uppercase text-muted">Connect</h2>
             <div>
               
-              <a style="font-size:1.75em;" target="_blank" aria-label="Official LinkedIn handle"
-                href="https://www.linkedin.com/"><i class="bi bi-linkedin"></i></a>
-              
               
               <a class="ps-2" style="font-size:1.75em;" target="_blank" aria-label="Official Twitter handle" 
-                href="https://x.com/"><i class="bi bi-twitter-x"></i></a>
+                href="https://x.com/ibt_unam"><i class="bi bi-twitter-x"></i></a>
               
               
               <a class="ps-2" style="font-size:1.90em;" target="_blank" aria-label="Contact email link" 
-                href="mailto:mail@example.com"><i class="bi bi-envelope-fill"></i></a>
+                href="mailto:alejandro.sanchez@ibt.unam.mx"><i class="bi bi-envelope-fill"></i></a>
               
             </div>
         </div>
