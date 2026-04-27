@@ -1,5 +1,5 @@
 backend:
-  name: gitlab
+  name: github
   repo: usjunco/pathogens_mx # Replace with your project path
   branch: main # or master
 
