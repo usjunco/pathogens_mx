@@ -1,41 +1,18 @@
 ---
-title: "Wastewater surveillance"
-description: "The Wastewater Epidemiology and Metagenomics Lab (WEML-IBT, UNAM) leads a pilot study to monitor viruses and bacteria in treatment plants. By analyzing wastewater through genomic and metagenomic approaches, this strategy enables early pathogen detection—even in asymptomatic cases—and expands epidemiological surveillance under a One Health framework, including respiratory and gastrointestinal viruses as well as antimicrobial resistance genes."
+title: Wastewater surveillance
+date: 2026-04-27T17:08:00
+draft: false
 type: internal
-banner: "/dashboards/banners/wastewater.jpg"
+description: The Wastewater Epidemiology and Metagenomics Lab (WEML-IBT, UNAM) leads a pilot study to monitor viruses and bacteria in treatment plants. By analyzing wastewater through genomic and metagenomic approaches, this strategy enables early pathogen detection—even in asymptomatic cases—and expands epidemiological surveillance under a One Health framework, including respiratory and gastrointestinal viruses as well as antimicrobial resistance genes.
+banner: /dashboards/banners/wastewater.jpg
 menu:
   dashboards:
     name: Wastewater surveillance
     identifier: wastewater_surveillance_dashboard
-dashboards_topics: [wastewater, viruses]
-
-draft: False
+dashboards_topics:
+  - wastewater
+  - viruses
 ---
-<style>
-  .custom-border {
-    border: 2px solid #295986;
-  }
-
-  .btn-custom {
-    background-color: #295986;
-    color: white;
-    border: none;
-    transition: background-color 0.3s ease;
-  }
-
-  .btn-custom:hover {
-    background-color: #37ae94;
-    color: white;
-  }
-
-  .text-custom {
-    color: #295986;
-  }
-</style>
-
-
-
-<div class="container mt-4">
 
 Wastewater-based surveillance (WWBS) is one of the most promising alternatives to clinical surveillance for human viral pathogens and has gained momentum in several Global North countries as a consequence of the contraction of the worldwide monitoring effort during the COVID-19. Even though relevant WWBS studies were set during 2020 to monitor its infectious agent, the SARS-CoV-2 virus, no major coordinated effort has been yet established in Mexico for these techniques.
 
@@ -52,6 +29,3 @@ This is a prospective multi-omic epidemiological study. Wastewater composite sam
 Through collaborations with Dr. Luz Bretón Deval from SECIHTI’s Researchers for Mexico, the scope has been extended to add a context of water contamination, by setting up physicochemical analyses and complementary bacterial sequencing aimed at the detection of antibiotic resistence genes (ARGs), that historically have been subject of horizontal gene transfers mediated by bacteriophage action, viruses infecting bacteria.
 
 The current study will help establish a comprehensive set of WWBS applications that can be used in Mexico to broaden the scope of surveillance protocols to include multiple viral pathogens and the detection of non-standard agents having epidemic potential and ARGs in an effort to promote future pandemics.
-
-
-</div>
