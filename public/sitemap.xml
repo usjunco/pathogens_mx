@@ -2,89 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/covigen/</loc>
+    <loc>http://localhost:1313/dashboards/covigen/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/news/covigen/</loc>
+    <loc>http://localhost:1313/news/covigen/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/</loc>
+    <loc>http://localhost:1313/dashboards/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/news/</loc>
+    <loc>http://localhost:1313/news/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/posts/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/highlights/</loc>
-    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/datasets/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/about/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/datasets/</loc>
+    <loc>http://localhost:1313/dashboards/topics/covid-19/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/contact/</loc>
+    <loc>http://localhost:1313/topics/covid-19/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/topics/covid-19/</loc>
+    <loc>http://localhost:1313/dashboards_topics/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/topics/covid-19/</loc>
+    <loc>http://localhost:1313/highlights/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards_topics/</loc>
+    <loc>http://localhost:1313/dashboards/dengue/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/dengue/</loc>
+    <loc>http://localhost:1313/dashboards/topics/dengue/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/topics/dengue/</loc>
+    <loc>http://localhost:1313/events/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/events/</loc>
+    <loc>http://localhost:1313/funding_page/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/funding_page/</loc>
+    <loc>http://localhost:1313/highlights_topics/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/highlights_topics/</loc>
+    <loc>http://localhost:1313/dashboards/influenza/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/influenza/</loc>
+    <loc>http://localhost:1313/dashboards/topics/influenza/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/topics/influenza/</loc>
+    <loc>http://localhost:1313/topics/influenza/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/topics/influenza/</loc>
+    <loc>http://localhost:1313/dashboards/mpox/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/mpox/</loc>
+    <loc>http://localhost:1313/dashboards/topics/mpox/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/topics/mpox/</loc>
+    <loc>http://localhost:1313/posts/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/rsv/</loc>
+    <loc>http://localhost:1313/dashboards/rsv/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/topics/rsv/</loc>
+    <loc>http://localhost:1313/dashboards/topics/rsv/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/sars-cov-2/</loc>
+    <loc>http://localhost:1313/dashboards/sars-cov-2/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/topics/sars-cov-2/</loc>
+    <loc>http://localhost:1313/dashboards/topics/sars-cov-2/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/topics/sars-cov-2/</loc>
+    <loc>http://localhost:1313/topics/sars-cov-2/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/submit/</loc>
+    <loc>http://localhost:1313/submit/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/topics/</loc>
+    <loc>http://localhost:1313/topics/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/tutorial/</loc>
+    <loc>http://localhost:1313/tutorial/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/topics/viruses/</loc>
+    <loc>http://localhost:1313/dashboards/topics/viruses/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/topics/viruses/</loc>
+    <loc>http://localhost:1313/topics/viruses/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/topics/wastewater/</loc>
+    <loc>http://localhost:1313/dashboards/topics/wastewater/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/wastewater-surveillance/</loc>
+    <loc>http://localhost:1313/dashboards/wastewater-surveillance/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/topics/wastewater/</loc>
+    <loc>http://localhost:1313/topics/wastewater/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/zika/</loc>
+    <loc>http://localhost:1313/dashboards/zika/</loc>
   </url><url>
-    <loc>https://pathogens.ibt.unam.mx/dashboards/topics/zika/</loc>
+    <loc>http://localhost:1313/dashboards/topics/zika/</loc>
   </url>
 </urlset>

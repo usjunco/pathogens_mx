@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<h2>{{ if .Params.title_full }}{{ .Params.title_full }}{{ else }}{{ .Title}}{{ end }}</h2>
+<p class="text-muted">Published: {{ .Date.Format "2006-01-02"}}</p>
+
+<figure class="figure float-end mx-2 w-50">
+  <img src="{{ if (isset .Params "banner_large") }} {{ .Params.banner_large }} {{ else if (isset .Params "banner") }} {{ .Params.banner }}{{ else }}{{ "news/banners/default_news.jpg" | relURL }}{{ end }}" alt="{{ .Title }}" class="img-news-banner img-thumbnail">
+  <figcaption class="figure-caption mt-1"><i>{{ .Params.banner_caption | markdownify }}</i></figcaption>
+</figure>
+
+{{ .Content }}
+
+<hr>
+<h5><a href="{{ .Parent.RelPermalink }}"><i class="bi bi-arrow-left-circle-fill"></i> Back to all Portal news</a></h5>
+
+{{ end }}

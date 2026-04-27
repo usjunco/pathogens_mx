@@ -1,0 +1,21 @@
+# Hugo default output directory
+/public
+
+# more Hugo stuff
+.hugo_build.lock
+
+# OSX
+.DS_Store
+__pycache__
+
+# backups
+*~
+\#*\#
+
+# Node modules and npm cache directory
+node_modules/
+.npm/
+
+# Visual Studio Code
+.vscode
+*.code-workspace

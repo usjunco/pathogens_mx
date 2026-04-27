@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+{{ with .Site.GetPage "/dashboards" }}{{ .Content }}{{ end }}
+
+<h3>Topic: {{ .Title }}</h3>
+
+{{- partial "dashboards.html" . -}}
+
+{{ end }}

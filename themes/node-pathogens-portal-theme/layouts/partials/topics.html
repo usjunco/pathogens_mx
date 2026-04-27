@@ -1,0 +1,17 @@
+<div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-2 g-lg-3">
+  {{ range where .Site.Menus.topics "Identifier" "ne" "all_topics"}}
+      <div class="col">
+        <div class="bg-card">
+          <figure class="figure" aria-hidden="true">
+            <a href="{{ .Page.RelPermalink }}">
+              <img class="topics-image figure-img" alt="{{ .Title }}"
+                src="{{ with .Page.Params.banner }}{{ . }}{{ else }}{{ "./banners/topic_covid.jpg" }}{{ end }}">
+            </a>
+            <figcaption class="figure-caption font-italic" style="color: #55585a;">{{ .Page.Params.banner_caption }}</figcaption>
+          </figure>
+          <h6><a href="{{ .Page.RelPermalink }}">{{ .Name }}</a></h6>
+          <p>{{ .Page.Description }}</p>
+        </div>
+      </div>
+  {{ end }}
+</div>
