@@ -1,0 +1,16 @@
+backend:
+  name: local # This enables local editing without needing a GitHub proxy
+
+media_folder: "static/images" # Where images are stored
+public_folder: "/images"      # How images are referenced in Markdown
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts" # Adjust this to your Hugo content path
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }

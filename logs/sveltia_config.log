@@ -1,0 +1,44 @@
+mkdir -p static/admin
+touch static/admin/index.html
+
+>> content of intex.html
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sveltia CMS</title>
+</head>
+<body>
+  <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js" type="module"></script>
+</body>
+</html>
+
+>> 
+
+touch static/admin/config.yml
+
+>> content of config.yml
+
+backend:
+  name: local # This enables local editing without needing a GitHub proxy
+
+media_folder: "static/images" # Where images are stored
+public_folder: "/images"      # How images are referenced in Markdown
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts" # Adjust this to your Hugo content path
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+>>>
+
+
+
