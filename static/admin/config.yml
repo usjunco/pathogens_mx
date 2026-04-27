@@ -8,16 +8,6 @@ media_folder: "static/images" # Where images are stored
 public_folder: "/images"      # The URL path Hugo uses for images
 
 collections:
-  - name: "posts"
-    label: "Blog Posts"
-    folder: "content/posts" # Path to your markdown files
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
-
   - name: "dashboards"
     label: "Dashboards"
     folder: "content/dashboards" # Path to your markdown files
