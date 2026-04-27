@@ -1,15 +1,17 @@
 backend:
-  name: local # This enables local editing without needing a GitHub proxy
+  name: gitlab
+  repo: usjunco/pathogens_mx # Replace with your project path
+  branch: main # or master
 
 media_folder: "static/images" # Where images are stored
-public_folder: "/images"      # How images are referenced in Markdown
+public_folder: "/images"      # The URL path Hugo uses for images
 
 collections:
   - name: "posts"
-    label: "Posts"
-    folder: "content/posts" # Adjust this to your Hugo content path
+    label: "Blog Posts"
+    folder: "content/posts" # Path to your markdown files
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
