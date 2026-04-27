@@ -2,6 +2,7 @@ backend:
   name: github
   repo: usjunco/pathogens_mx # Replace with your project path
   branch: main # or master
+  base_url: https://sveltia-cms-auth42.usju5296.workers.dev
 
 media_folder: "static/images" # Where images are stored
 public_folder: "/images"      # The URL path Hugo uses for images
