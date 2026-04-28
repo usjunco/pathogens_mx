@@ -25,4 +25,3 @@ jobs:
             git fetch --all
             git reset --hard origin/main
             hugo
-            #sudo systemctl reload nginx
