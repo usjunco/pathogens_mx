@@ -1,9 +1,9 @@
 ---
 title: RSV
-date: 2026-04-27T17:08:00
-draft: false
-type: internal
+date: 2026-05-04T12:49:00
 description: Provides information on RSV circulation in Mexico, including weekly cases, seasonal distribution, and transmission patterns across children and adults. The purpose is to strengthen epidemiological surveillance, identify periods of higher risk, and deliver key data for outbreak prevention and control.
+type: internal
+draft: false
 banner: /dashboards/banners/rsv.jpg
 menu:
   dashboards:
@@ -14,4 +14,6 @@ dashboards_topics:
   - RSV
 ---
 
-Provides information on RSV circulation in Mexico, including weekly cases, seasonal distribution, and transmission patterns across children and adults. The purpose is to strengthen epidemiological surveillance, identify periods of higher risk, and deliver key data for outbreak prevention and control.
+Provides information on RSV circulation in Mexico, including weekly cases, seasonal distribution, and transmission patterns across children and adults. The purpose is to strengthen epidemiological surveillance, identify periods of higher risk, and deliver key data for outbreak prevention and control. 
+
+RSV v1.0
