@@ -16,4 +16,4 @@ dashboards_topics:
 
 Provides information on RSV circulation in Mexico, including weekly cases, seasonal distribution, and transmission patterns across children and adults. The purpose is to strengthen epidemiological surveillance, identify periods of higher risk, and deliver key data for outbreak prevention and control. 
 
-RSV v1.0
+RSV v1.1
