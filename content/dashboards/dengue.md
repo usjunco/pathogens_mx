@@ -14,4 +14,4 @@ dashboards_topics:
   - viruses
 ---
 
-Provides updated information on dengue in Mexico, including weekly cases, geographic distribution, serotype trends, and comparisons with previous years. The aim is to support national surveillance, characterize transmission dynamics, and offer valuable insights for public health decision-making. scrlt 2555
+Provides updated information on dengue in Mexico, including weekly cases, geographic distribution, serotype trends, and comparisons with previous years. The aim is to support national surveillance, characterize transmission dynamics, and offer valuable insights for public health decision-making. scrlt 18
