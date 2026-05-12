@@ -20,3 +20,5 @@ Motivation: Influenza A viruses frequently cause seasonal outbreaks and pandemic
 
 Availability and implementation
 Three versions of K-FluDB, optimized for read lengths of 75, 150, and 300 nucleotides, are freely available at https://zenodo.org/records/17203072, and the source code is available at https://github.com/usjunco/pange
+
+239
