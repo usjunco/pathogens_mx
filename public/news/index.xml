@@ -2,17 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portal news on México Pathogens Portal</title>
-    <link>http://localhost:1313/news/</link>
+    <link>https://pathogens.ibt.unam.mx/news/</link>
     <description>Recent content in Portal news on México Pathogens Portal</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 May 2026 12:45:00 +0000</lastBuildDate>
+    <atom:link href="https://pathogens.ibt.unam.mx/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>noticia sobre congreso 1</title>
+      <link>https://pathogens.ibt.unam.mx/news/noticia-sobre-congreso-1/</link>
+      <pubDate>Tue, 05 May 2026 12:45:00 +0000</pubDate>
+      <guid>https://pathogens.ibt.unam.mx/news/noticia-sobre-congreso-1/</guid>
+      <description>dsfsdf</description>
+    </item>
+    <item>
+      <title>noticia sobre congreso 2</title>
+      <link>https://pathogens.ibt.unam.mx/news/noticia-sobre-congreso-2/</link>
+      <pubDate>Tue, 05 May 2026 12:44:00 +0000</pubDate>
+      <guid>https://pathogens.ibt.unam.mx/news/noticia-sobre-congreso-2/</guid>
+      <description>sdf</description>
+    </item>
+    <item>
+      <title>noticia sobre congreso 3</title>
+      <link>https://pathogens.ibt.unam.mx/news/noticia-sobre-congreso-3/</link>
+      <pubDate>Tue, 05 May 2026 12:44:00 +0000</pubDate>
+      <guid>https://pathogens.ibt.unam.mx/news/noticia-sobre-congreso-3/</guid>
+      <description>fsdf</description>
+    </item>
+    <item>
+      <title>RSV new</title>
+      <link>https://pathogens.ibt.unam.mx/news/nueva-noticia-esta-es-una-nueva-noticia/</link>
+      <pubDate>Tue, 05 May 2026 11:46:00 +0000</pubDate>
+      <guid>https://pathogens.ibt.unam.mx/news/nueva-noticia-esta-es-una-nueva-noticia/</guid>
+      <description>esta noticia es nueva</description>
+    </item>
+    <item>
+      <title>test new</title>
+      <link>https://pathogens.ibt.unam.mx/news/test-new/</link>
+      <pubDate>Tue, 05 May 2026 11:40:00 +0000</pubDate>
+      <guid>https://pathogens.ibt.unam.mx/news/test-new/</guid>
+      <description>this is a test new</description>
+    </item>
     <item>
       <title>CoViGen-Mex</title>
-      <link>http://localhost:1313/news/covigen/</link>
+      <link>https://pathogens.ibt.unam.mx/news/covigen/</link>
       <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/covigen/</guid>
+      <guid>https://pathogens.ibt.unam.mx/news/covigen/</guid>
       <description>Mexican Consortium for Genomic Surveillance.</description>
     </item>
   </channel>
