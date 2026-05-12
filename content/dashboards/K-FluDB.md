@@ -8,7 +8,7 @@ menu:
     name: K-FluDB
     identifier: K-FluDB_dashboard
     weight: 1
-dashboards_topics: [SARS-CoV-2, COVID-19, viruses]
+dashboards_topics: [Influenza]
 
 draft: False
 ---
