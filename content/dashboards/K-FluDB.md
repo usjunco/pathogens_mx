@@ -1,10 +1,10 @@
 ---
-title: K-FluDB v1.0.1
+title: K-FluDB v1.0
 date: 2026-05-12T13:10:00
 banner: /images/Screenshot from 2026-05-12 12-11-30.png
-draft: false
-type: internal
 description: Explore genomic and epidemiological surveillance data of SARS-CoV-2 in Mexico. This dashboard provides weekly updates on variant circulation, transmission dynamics, and outbreak trends, combining sequencing and case data to support national surveillance and public health response.
+type: internal
+draft: false
 menu:
   dashboards:
     name: K-FluDB
@@ -24,4 +24,4 @@ Any input sequences can be used with this algorithm to generate a compressed ver
 Availability and implementation
 Three versions of K-FluDB, optimized for read lengths of 75, 150, and 300 nucleotides, are freely available at https://zenodo.org/records/17203072, and the source code is available at https://github.com/usjunco/pange
 
-v1.0.1.1.1
+v1.0
