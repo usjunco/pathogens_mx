@@ -1,5 +1,5 @@
 ---
-title: K-FluDB v1.0
+title: K-FluDB v1.0.1
 date: 2026-05-12T13:10:00
 banner: /images/Screenshot from 2026-05-12 12-11-30.png
 description: Explore genomic and epidemiological surveillance data of SARS-CoV-2 in Mexico. This dashboard provides weekly updates on variant circulation, transmission dynamics, and outbreak trends, combining sequencing and case data to support national surveillance and public health response.
