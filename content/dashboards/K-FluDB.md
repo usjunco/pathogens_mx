@@ -11,7 +11,6 @@ menu:
     identifier: K-FluDB_dashboard
     weight: 1
 
-draft: False
 dashboards_topics: [Influenza, viruses]
 ---
 
