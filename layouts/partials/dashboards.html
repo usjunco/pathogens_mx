@@ -15,7 +15,7 @@
 {{ end }}
 
 <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-2 {{ if not $displayed_in_homepage }}g-lg-3{{ end }}" id="dashboard-cards-container">
-    {{ range first 6 $dashboards_to_show }}
+    {{ range $dashboards_to_show }}
     {{ $dashboardPage := path.Split (path.Clean .Page.RelPermalink) }}
     <div class="col p-2 dashboard-card" data-status="{{.Page.Params.data_status}}">
         <div class="bg-dashboard">
