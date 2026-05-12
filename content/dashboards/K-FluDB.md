@@ -13,7 +13,6 @@ menu:
 dashboards_topics: [Influenza]
 
 draft: False
-=======
 dashboards_topics:
   - SARS-CoV-2
   - COVID-19
