@@ -21,9 +21,9 @@ params:
     - /img/pathogens_logo.svg
   # local node info, logo will be displayed above pathogens logo
   # given 'node_country' is an example, change the value to actual country
-  portal_logo: "/static/images/Pathogens-Portal-Logo-Mexico-FINAL.png" 
+  portal_logo: "/images/Pathogens-Portal-Logo-Mexico-FINAL.png" 
   #portal_logo: "/img/pathogens_logo.svg"
-  node_logo: "/static/images/logo-ibt-azul-unam.png" 
+  node_logo: "/images/logo-ibt-azul-unam.png" 
   #node_logo: "/img/example_logo.png"
   node_url: "https://pathogens.ibt.unam.mx/"
   node_country: "Mexico"
