@@ -12,7 +12,7 @@ menu:
     weight: 1
 
 draft: False
-dashboards_topics: [Inlfuenza, viruses]
+dashboards_topics: [Influenza, viruses]
   
 ---
 
