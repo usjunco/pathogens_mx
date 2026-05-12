@@ -6,8 +6,15 @@
     <description>Recent content in Viruses on México Pathogens Portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 12:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 12:12:00 +0000</lastBuildDate>
     <atom:link href="https://pathogens.ibt.unam.mx/dashboards/topics/viruses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>K-FluDB</title>
+      <link>https://pathogens.ibt.unam.mx/dashboards/k-fludb/</link>
+      <pubDate>Tue, 12 May 2026 12:12:00 +0000</pubDate>
+      <guid>https://pathogens.ibt.unam.mx/dashboards/k-fludb/</guid>
+      <description>Motivation: Influenza A viruses frequently cause seasonal outbreaks and pandemics due to their genetic diversity and reassortment potential. Existing genomic surveillance tools face challenges with redundant databases, delaying subtype identification and obscuring reassortment dynamics. K-FluDB, a novel k-mer-based database, addresses these issues by enhancing subtype identification, capturing genomic diversity, and assisting in the detection of reassortment events critical for understanding viral evolution and improving outbreak proactive measures.&#xA;Availability and implementation Three versions of K-FluDB, optimized for read lengths of 75, 150, and 300 nucleotides, are freely available at https://zenodo.</description>
+    </item>
     <item>
       <title>RSV</title>
       <link>https://pathogens.ibt.unam.mx/dashboards/rsv/</link>
