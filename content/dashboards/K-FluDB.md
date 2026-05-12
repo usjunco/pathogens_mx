@@ -14,9 +14,7 @@ dashboards_topics: [Influenza]
 
 draft: False
 dashboards_topics:
-  - SARS-CoV-2
-  - COVID-19
-  - viruses
+  - Influenza
 ---
 
 Motivation: Influenza A viruses frequently cause seasonal outbreaks and pandemics due to their genetic diversity and reassortment potential. Existing genomic surveillance tools face challenges with redundant databases, delaying subtype identification and obscuring reassortment dynamics. K-FluDB, a novel k-mer-based database, addresses these issues by enhancing subtype identification, capturing genomic diversity, and assisting in the detection of reassortment events critical for understanding viral evolution and improving outbreak proactive measures.
