@@ -5,7 +5,7 @@ type: internal
 banner: "/dashboards/banners/sars.jpg"
 menu:
   dashboards:
-    name: K-FluDB.md
+    name: K-FluDB
     identifier: K-FluDB_dashboard
     weight: 1
 dashboards_topics: [SARS-CoV-2, COVID-19, viruses]
