@@ -2,9 +2,9 @@
 title: K-FluDB v1.0
 date: 2026-05-12T13:10:00
 banner: /images/Screenshot from 2026-05-12 12-11-30.png
-description: Explore genomic and epidemiological surveillance data of SARS-CoV-2 in Mexico. This dashboard provides weekly updates on variant circulation, transmission dynamics, and outbreak trends, combining sequencing and case data to support national surveillance and public health response.
-type: internal
 draft: false
+type: internal
+description: Explore genomic and epidemiological surveillance data of SARS-CoV-2 in Mexico. This dashboard provides weekly updates on variant circulation, transmission dynamics, and outbreak trends, combining sequencing and case data to support national surveillance and public health response.
 menu:
   dashboards:
     name: K-FluDB
@@ -15,7 +15,7 @@ dashboards_topics:
   - viruses
 ---
 
-K-FluDB is a high-performance k-mer database that optimizes Influenza A surveillance by compressing genomic data by 99.64%. By eliminating redundancy across 50 subtype combinations, it achieves >99% accuracy in subtype identification and provides critical insights into viral reassortment and evolution for proactive public health response.
+**K-FluDB** is a high-performance k-mer database that optimizes Influenza A surveillance by compressing genomic data by 99.64%. By eliminating redundancy across 50 subtype combinations, it achieves >99% accuracy in subtype identification and provides critical insights into viral reassortment and evolution for proactive public health response.
 
 You can read the published article here: [K-FluDB](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf254/8280401)
 
