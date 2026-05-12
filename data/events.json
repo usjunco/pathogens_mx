@@ -11,5 +11,16 @@
         "organisers": "Sociedad Mexicana de Virología",
         "event_url": "https://www.smvirologia.org/congreso-nacional-de-virología",
         "description": "Congreso Nacional de Virología 2025"
+    },{
+        "title": "XIV Congreso Nacional de Virología 2025 ><><",
+        "type": "Event",
+        "date_start": "2025-10-01",
+        "time_start": "9:00",
+        "date_end": "2025-10-04",
+        "time_end": "20:30",
+        "venue": "Querétaro, Qro. México",
+        "organisers": "Sociedad Mexicana de Virología",
+        "event_url": "https://www.smvirologia.org/congreso-nacional-de-virología",
+        "description": "Congreso Nacional de Virología 2025"
     }
 ]
